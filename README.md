@@ -7,9 +7,10 @@
 </div>
 
 <div style="display:flex; align-items: center; justify-content: center;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArkURL&layout=compact">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArkURL&show_icons=true&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArkURL&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api?username=ArkURL&show_icons=true&hide_border=true">
 </div>
+
 
 #### Contact Me:
 
