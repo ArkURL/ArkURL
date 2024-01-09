@@ -2,11 +2,11 @@
 
 **I'm [ArkURL](https://github.com/ArkURL)！A passionate frontend developer.**<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="24px">
 
-<div style="display: flex; align-item: center; justify-content: start;">
+<div style="display: flex;">
     <img src="https://komarev.com/ghpvc/?username=ArkURL&style=for-the-badge" />
 </div>
 
-<div style="display:flex; align-item:center;">
+<div style="display:flex;">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArkURL&layout=compact">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArkURL&show_icons=true&hide_border=true">
 </div>
